@@ -1,1 +1,1 @@
-# pete-thinkful-site
+the mock up of pete thinkful's site
