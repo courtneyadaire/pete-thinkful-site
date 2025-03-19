@@ -53,6 +53,10 @@ h3 {
   display: block;
 }
 
+#portfolio {
+  text-align: center;
+}
+
 article {
   padding: 50px 0;
 }
