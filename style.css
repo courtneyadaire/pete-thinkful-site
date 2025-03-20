@@ -57,6 +57,11 @@ h3 {
   text-align: center;
 }
 
+#contact {
+  text-align: center;
+}
+
+
 article {
   padding: 50px 0;
 }
@@ -87,6 +92,20 @@ img {
 
 hr {
   border: 1px solid black;
+  margin: 0 auto;
+}
+
+.list-container {
+  width: 450px;
+  margin: 0 auto;
+}
+
+ol {
+  padding: 0;
+}
+
+li {
+  text-align: left;
 }
 
 /* Add your solution below */
@@ -96,7 +115,7 @@ hr {
   height: 200px;
   border-radius: 50%;
   border: 3px solid #003049;
-  
+
 }
 
 footer {
@@ -114,3 +133,4 @@ a, a:link, a:visited {
 a:hover { 
    color: #f77f00;
 }
+
